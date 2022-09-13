@@ -7,4 +7,4 @@ fix complicted
 
 try how to not use fast Forward.
 
-do some changes to stash.
+do some changes to stash..
