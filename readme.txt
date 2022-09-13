@@ -6,3 +6,5 @@ the change is on the dev branch.
 fix complicted
 
 try how to not use fast Forward.
+
+do some changes to stash.
